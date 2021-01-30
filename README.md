@@ -1,4 +1,4 @@
-#Compiler Offline Codes
+# Compiler Offline Codes
 
 Implementation of a Symbol Table,
 Lexical Analyzer,
