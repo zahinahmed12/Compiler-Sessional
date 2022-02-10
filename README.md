@@ -1,4 +1,4 @@
-# Compiler Offline Codes
+# Compiler Using Bison and Yacc
 
 Implementation of a Symbol Table,
 Lexical Analyzer,
