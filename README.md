@@ -1,4 +1,4 @@
-# Compiler Using Bison and Yacc
+# Compiler Using Bison and Flex
 
 Implementation of a Symbol Table,
 Lexical Analyzer,
